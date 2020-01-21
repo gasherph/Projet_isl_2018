@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="Burger2Home_ISL_Project.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>
+        <asp:ContentPlaceHolder ID="Titre" runat="server" />
+    </title>
+    <link href="../Ressources/main.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="Header" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="wrapper">
+            <div class="header">
+                <h1>
+                    <span><strong><em style="background-image: inherit; background-color: #FF0000; background-repeat: repeat-x">The Burger 2 Home </em></strong></span></h1>
+            </div>
+            <br />
+
+            <div class="menu">
+                <ul>
+                    <li class="navigation_first_item"><a href="Default.aspx">Home</a></li>
+                    <li><a href="#">About us</a></li>
+                    <li id="burgers" runat="server"><a runat="server" href="~/BurgerList.aspx">Our Burgers</a></li>
+                    <%--<li id="burgers" runat="server"><a runat="server" href="~/Burgers.aspx">Our Burgers</a></li>--%>
+                    <%--<li id="customers" runat="server"><a runat="server" href="~/CustomersList.aspx">Customers</a></li>--%>
+                    <li id="allCustomers" runat="server"><a runat="server" href="~/Customers.aspx">Customers</a></li>
+                    <li id="categories" runat="server"><a runat="server" href="~/CategoriesList.aspx">Categories</a></li>
+                    <li id="ingredients" runat="server"><a runat="server" href="~/IngredientsList.aspx">Ingredients</a></li>
+                    <li id="orders" runat="server"><a runat="server" href="#">Make an Order</a></li>
+                    <li id="newUser" runat="server"><a runat="server" href="~/NewUser.aspx">New User </a></li>
+                    <li id="Users" runat="server"><a runat="server" href="~/UsersList.aspx">Users </a></li>
+                    <li><a href="Contacts.aspx">Contact us</a></li>
+                    <%--<li><a href="#"> </a></li>--%>
+
+                    <asp:Button ID="BtnUser" runat="server" Text="Username"/>
+                    <asp:Button ID="BtnConnexion" runat="server" Text="Logout" OnClick="BtnConnexion_Click" />
+
+                    <%--<li>                      
+                        <asp:Button ID="BtnUser" runat="server" Text="User" />
+                        <asp:Button ID="BtnConnexion" runat="server" Text="Déconnexion" OnClick="BtnConnexion_Click" />
+                    </li>--%>
+                </ul>
+            </div>
+
+            <div class="clear"></div>
+
+            <div class="content">
+                <asp:ContentPlaceHolder ID="ContentBody" runat="server"></asp:ContentPlaceHolder>
+            </div>
+
+            <div class="clear"></div>
+
+            <div class="footer" style="text-align: center">
+                <h2>Institut Saint-Laurent Liège</h2>
+                Rue St-Laurent,33-4000 Liège
+            </div>
+
+        </div>
+
+    </form>
+</body>
+</html>

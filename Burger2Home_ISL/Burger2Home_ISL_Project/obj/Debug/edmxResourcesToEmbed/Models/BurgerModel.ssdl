@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Burger2HomeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Allergene">
+    <Key>
+      <PropertyRef Name="allergene_id" />
+    </Key>
+    <Property Name="allergene_id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Burger">
+    <Key>
+      <PropertyRef Name="burger_Id" />
+    </Key>
+    <Property Name="burger_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+    <Property Name="ingredient_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="Categorie">
+    <Key>
+      <PropertyRef Name="categorie_id" />
+    </Key>
+    <Property Name="categorie_id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="customer_Id" />
+    </Key>
+    <Property Name="customer_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstname" Type="nvarchar" MaxLength="80" />
+    <Property Name="lastname" Type="nvarchar(max)" />
+    <Property Name="email" Type="nvarchar(max)" />
+    <Property Name="password" Type="nvarchar(max)" />
+    <Property Name="address" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Groupe">
+    <Key>
+      <PropertyRef Name="groupe_id" />
+    </Key>
+    <Property Name="groupe_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naame" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Ingredient">
+    <Key>
+      <PropertyRef Name="ingredient_id" />
+    </Key>
+    <Property Name="ingredient_id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+    <Property Name="categorie_id" Type="int" />
+    <Property Name="allergene_id" Type="int" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="order_id" />
+    </Key>
+    <Property Name="order_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="orderDate" Type="datetime" />
+    <Property Name="orderAmount" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="burger_id" Type="int" />
+    <Property Name="customer_id" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="UserGroup">
+    <Key>
+      <PropertyRef Name="userGroup_id" />
+    </Key>
+    <Property Name="userGroup_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_id" Type="int" Nullable="false" />
+    <Property Name="groupe_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="user_id" />
+    </Key>
+    <Property Name="user_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstname" Type="nvarchar(max)" />
+    <Property Name="lastname" Type="nvarchar(max)" />
+    <Property Name="email" Type="nvarchar(max)" />
+    <Property Name="password" Type="nvarchar(max)" />
+    <Property Name="tel" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK_dbo_Burger_dbo_Ingredient_ingredient_Id">
+    <End Role="Ingredient" Type="Self.Ingredient" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Burger" Type="Self.Burger" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ingredient">
+        <PropertyRef Name="ingredient_id" />
+      </Principal>
+      <Dependent Role="Burger">
+        <PropertyRef Name="ingredient_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Ingredient_dbo_Allergene_allergene_id">
+    <End Role="Allergene" Type="Self.Allergene" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Ingredient" Type="Self.Ingredient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Allergene">
+        <PropertyRef Name="allergene_id" />
+      </Principal>
+      <Dependent Role="Ingredient">
+        <PropertyRef Name="allergene_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Ingredient_dbo_Categorie_categorie_id">
+    <End Role="Categorie" Type="Self.Categorie" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Ingredient" Type="Self.Ingredient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorie">
+        <PropertyRef Name="categorie_id" />
+      </Principal>
+      <Dependent Role="Ingredient">
+        <PropertyRef Name="categorie_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Orders_dbo_Burger_burger_id">
+    <End Role="Burger" Type="Self.Burger" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Burger">
+        <PropertyRef Name="burger_Id" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="burger_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Orders_dbo_Customer_customer_id">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="customer_Id" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="customer_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_UserGroup_dbo_Groupe_groupe_id">
+    <End Role="Groupe" Type="Self.Groupe" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="UserGroup" Type="Self.UserGroup" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Groupe">
+        <PropertyRef Name="groupe_id" />
+      </Principal>
+      <Dependent Role="UserGroup">
+        <PropertyRef Name="groupe_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_UserGroup_dbo_Users_user_id">
+    <End Role="Users" Type="Self.Users" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="UserGroup" Type="Self.UserGroup" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="user_id" />
+      </Principal>
+      <Dependent Role="UserGroup">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Burger2HomeModelStoreContainer">
+    <EntitySet Name="Allergene" EntityType="Self.Allergene" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Burger" EntityType="Self.Burger" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Categorie" EntityType="Self.Categorie" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Groupe" EntityType="Self.Groupe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ingredient" EntityType="Self.Ingredient" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserGroup" EntityType="Self.UserGroup" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_dbo_Burger_dbo_Ingredient_ingredient_Id" Association="Self.FK_dbo_Burger_dbo_Ingredient_ingredient_Id">
+      <End Role="Ingredient" EntitySet="Ingredient" />
+      <End Role="Burger" EntitySet="Burger" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Ingredient_dbo_Allergene_allergene_id" Association="Self.FK_dbo_Ingredient_dbo_Allergene_allergene_id">
+      <End Role="Allergene" EntitySet="Allergene" />
+      <End Role="Ingredient" EntitySet="Ingredient" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Ingredient_dbo_Categorie_categorie_id" Association="Self.FK_dbo_Ingredient_dbo_Categorie_categorie_id">
+      <End Role="Categorie" EntitySet="Categorie" />
+      <End Role="Ingredient" EntitySet="Ingredient" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Orders_dbo_Burger_burger_id" Association="Self.FK_dbo_Orders_dbo_Burger_burger_id">
+      <End Role="Burger" EntitySet="Burger" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Orders_dbo_Customer_customer_id" Association="Self.FK_dbo_Orders_dbo_Customer_customer_id">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_UserGroup_dbo_Groupe_groupe_id" Association="Self.FK_dbo_UserGroup_dbo_Groupe_groupe_id">
+      <End Role="Groupe" EntitySet="Groupe" />
+      <End Role="UserGroup" EntitySet="UserGroup" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_UserGroup_dbo_Users_user_id" Association="Self.FK_dbo_UserGroup_dbo_Users_user_id">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserGroup" EntitySet="UserGroup" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

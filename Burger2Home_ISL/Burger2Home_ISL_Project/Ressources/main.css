@@ -1,0 +1,154 @@
+﻿/*
+    html {
+    margin:0px;
+    border-radius: 10px;
+    /* border:2px solid #901811;
+    width: auto;
+    height: auto;
+}
+
+*/
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, fieldset, textarea, p, ul, li, blockquote,header 
+{
+    padding: 0;
+    margin: 0;
+
+}
+
+.clear {
+    clear: both;
+}
+
+.body {
+    background-color: rgb(237,237,237);
+    font-family: Arial,Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
+
+}
+.header {
+    /*height: 50px;*/
+    background-color: orangered;
+    /*color: rgb(255,255,255);*/
+    border-radius: 5px 5px 5px 5px;
+    width: 90%;
+    font-size: xx-large; 
+    text-align: center; 
+    color: darkred;
+    /*margin:20px;*/
+}
+
+.wrapper {
+    /*width:auto;
+    margin:5%;*/
+    height: 100%;
+    margin: 5%;
+
+}
+
+.content {
+    width: 90%;
+    /*background-color: rgb(254,254,254);*/
+    border: 1px solid rgb(224,224,224);
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-height: 400px;
+    /*background-image: url('../Ressources/images/bacon_cheeseburger.jpg');*/
+    background-image: url('../Ressources/images/homemade.jpg');
+}
+
+/* Menu*/
+
+.menu {
+    /*background-color:rgb(10,110,178);*/
+    /*background-color: #901811;*/
+    background-color: orangered;
+    width:90%;
+    margin: 0 0 10px;
+    padding: 0;
+    height: 40px;
+    color: rgb(243,243,243);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.navigation_first_item 
+{
+    border-left: 0;
+    border-radius: 5px 0 0 5px;
+}
+
+.navitems_s 
+{
+    float: left;
+    border-right: 1px solid rgb(10,85,125);
+    border-left: 1px solid rgb(67,153,200);
+    height: 40px;
+    background-color: rgb(14,79,114);
+}
+
+
+    .menu ul li 
+    {
+        float: left;
+        display: block;
+        width:150px;
+        list-style: none;
+        border-right: 1px solid rgb(10,85,125);
+        border-left: 1px solid rgb(67,153,200);
+        border-radius:5px;
+        text-align:center;
+    }
+
+        .menu ul li.navigation_first_item:hover {
+            border-radius: 5px 0 0 5px;
+        }
+
+        .menu ul li a {
+            font-size: 13px;
+            font-weight: bold;
+            line-height: 40px;
+            padding: 8px 20px;
+            color: rgb(255,255,255);
+            text-decoration: none;
+        }
+
+        .menu ul li:hover {
+            /*background-color: rgb(14,79,114);*/
+            background-color: #ffd800;
+            /*border-right: 1px solid rgb(14,89,130);*/
+            border-right: orangered;
+        }
+
+.footer 
+{
+    height: 50px;
+    /*background-color:rgb(10,110,178);*/
+    /*background-color: #901811;*/
+    background-color: orangered;
+    color: rgb(255,255,255);
+    border-radius: 5px 5px 5px 5px;
+    width: 90%;
+}
+
+    footer h2 
+    {
+        padding: 15px;
+        text-align: center;
+    }
+
+.Btn_Connexion {
+    border-radius: 10px;  
+    width: 15%;
+    line-height: 25px;
+    text-align: center;
+    vertical-align: middle;
+    background: url(../Ressources/images/bg.jpg) no-repeat;
+    color: white;
+    text-decoration: none;
+    /*background-image: -webkit-linear-gradient(top, #E83C1A 0%, #2A2333 100%);
+    background-image: linear-gradient(to bottom, #E83C1A 0%, #2A2333 100%);*/
+    margin-left: 40%;
+}

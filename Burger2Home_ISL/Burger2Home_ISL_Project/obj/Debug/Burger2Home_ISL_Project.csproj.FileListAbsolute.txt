@@ -1,0 +1,218 @@
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Burger2Home_ISL_Project.dll.config
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Burger2Home_ISL_Project.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Burger2Home_ISL_Project.pdb
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csc.exe
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csc.exe.config
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csc.rsp
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csi.exe
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csi.exe.config
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csi.rsp
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.AppContext.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Console.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\vbc.exe
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\vbc.exe.config
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\vbc.rsp
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Dapper.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\EntityFramework.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Facebook.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\MetroFramework.Design.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\MetroFramework.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\MetroFramework.Fonts.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.Data.Edm.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.Data.OData.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Newtonsoft.Json.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Net.Http.Formatting.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Spatial.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.OData.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.WebHost.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Dapper.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\EntityFramework.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Facebook.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.Data.Edm.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.Data.OData.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Newtonsoft.Json.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Net.Http.Formatting.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Spatial.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.OData.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.WebHost.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\de\System.Spatial.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\es\System.Spatial.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\fr\System.Spatial.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\it\System.Spatial.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ja\System.Spatial.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ko\System.Spatial.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ru\System.Spatial.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\obj\Debug\Burger2Home_ISL_Project.csprojAssemblyReference.cache
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\obj\Debug\Burger2Home_ISL_Project.csproj.CopyComplete
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\obj\Debug\Burger2Home_ISL_Project.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\obj\Debug\Burger2Home_ISL_Project.pdb
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ephrem\Desktop\On Working\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Burger2Home_ISL_Project.dll.config
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Burger2Home_ISL_Project.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Burger2Home_ISL_Project.pdb
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csc.exe
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csc.exe.config
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csc.rsp
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csi.exe
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csi.exe.config
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\csi.rsp
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.AppContext.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Console.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\vbc.exe
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\vbc.exe.config
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\vbc.rsp
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Dapper.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\EntityFramework.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Facebook.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\MetroFramework.Design.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\MetroFramework.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\MetroFramework.Fonts.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.Data.Edm.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.Data.OData.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Newtonsoft.Json.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Net.Http.Formatting.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Spatial.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.OData.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.WebHost.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Dapper.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\EntityFramework.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Facebook.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.Data.Edm.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.Data.OData.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Newtonsoft.Json.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Net.Http.Formatting.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Spatial.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.OData.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\System.Web.Http.WebHost.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\de\System.Spatial.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\es\System.Spatial.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\fr\System.Spatial.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\it\System.Spatial.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ja\System.Spatial.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ko\System.Spatial.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\ru\System.Spatial.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\obj\Debug\Burger2Home_ISL_Project.csprojAssemblyReference.cache
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\obj\Debug\Burger2Home_ISL_Project.csproj.CopyComplete
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\obj\Debug\Burger2Home_ISL_Project.dll
+C:\Users\Ephrem\Documents\Projet_2018\Burger2Home_ISL\Burger2Home_ISL_Project\obj\Debug\Burger2Home_ISL_Project.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8349b6f3371e45f0a3a57551eaa42ec5" Name="Diagram1">
+        <EntityTypeShape EntityType="Burger2HomeModel.Allergene" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Burger2HomeModel.Burger" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Burger2HomeModel.Categorie" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Burger2HomeModel.Customer" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Burger2HomeModel.Groupe" Width="1.5" PointX="7.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Burger2HomeModel.Ingredient" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Burger2HomeModel.Orders" Width="1.5" PointX="7.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Burger2HomeModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Burger2HomeModel.UserGroup" Width="1.5" PointX="10" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Burger2HomeModel.Users" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <AssociationConnector Association="Burger2HomeModel.FK_dbo_Ingredient_dbo_Allergene_allergene_id" ManuallyRouted="false" />
+        <AssociationConnector Association="Burger2HomeModel.FK_dbo_Burger_dbo_Ingredient_ingredient_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="Burger2HomeModel.FK_dbo_Orders_dbo_Burger_burger_id" ManuallyRouted="false" />
+        <AssociationConnector Association="Burger2HomeModel.FK_dbo_Ingredient_dbo_Categorie_categorie_id" ManuallyRouted="false" />
+        <AssociationConnector Association="Burger2HomeModel.FK_dbo_Orders_dbo_Customer_customer_id" ManuallyRouted="false" />
+        <AssociationConnector Association="Burger2HomeModel.FK_dbo_UserGroup_dbo_Groupe_groupe_id" ManuallyRouted="false" />
+        <AssociationConnector Association="Burger2HomeModel.FK_dbo_UserGroup_dbo_Users_user_id" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
