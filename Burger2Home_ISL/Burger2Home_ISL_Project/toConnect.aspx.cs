@@ -86,8 +86,8 @@ namespace Burger2Home_ISL_Project
                 };*/
 
                 Session["customer"] = customer.firstname + " " +customer.lastname;
-                //Response.Redirect("CustomerPageFR.aspx");
-                Response.Redirect("~/Admin.aspx");
+                Response.Redirect("CustomerPageFR.aspx");
+                //Response.Redirect("~/Admin.aspx");
 
             }
 
@@ -118,9 +118,15 @@ namespace Burger2Home_ISL_Project
                     Session["Phone"] = user.phone;
                     Session["Groupe"] = user.UserGroup;
                     Session["isAdmin"] = user.isAdmin;
-                   
-                    //.Redirect("~/User.aspx");
-                    Response.Redirect("~/Admin.aspx");
+
+                    if(user.isAdmin)
+                    {
+                        Response.Redirect("~/Admin.aspx");
+
+                    }
+
+                    Response.Redirect("CustomerPageEN.aspx");
+                    //Response.Redirect("~/Admin.aspx");
 
                 }
                 conn.Close();

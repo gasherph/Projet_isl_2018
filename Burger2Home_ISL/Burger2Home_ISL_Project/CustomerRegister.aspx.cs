@@ -17,7 +17,7 @@ namespace Burger2Home_ISL_Project
        
         protected void Page_Load(object sender, EventArgs e)
         {
-            HtmlGenericControl customers = (HtmlGenericControl)Master?.FindControl("customers");
+            //HtmlGenericControl customers = (HtmlGenericControl)Master?.FindControl("customers");
             HtmlGenericControl allCustomers = (HtmlGenericControl)Master?.FindControl("allCustomers");
             HtmlGenericControl categories = (HtmlGenericControl)Master?.FindControl("categories");
             HtmlGenericControl ingredients = (HtmlGenericControl)Master?.FindControl("ingredients");
@@ -28,7 +28,7 @@ namespace Burger2Home_ISL_Project
             Button user = (Button)Master?.FindControl("BtnUser");
 
 
-            customers.Visible = false;
+            //customers.Visible = false;
             allCustomers.Visible = false;
             categories.Visible = false;
             ingredients.Visible = false;

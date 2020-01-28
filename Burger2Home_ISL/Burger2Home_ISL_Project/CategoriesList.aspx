@@ -17,7 +17,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentBody" runat="server">
 
     <asp:SqlDataSource ID="CategorieLibelle" runat="server"
-        ConnectionString="Data Source=PC\SQLEXPRESS;Initial Catalog=Burger2Home;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework"
+        ConnectionString="Data Source=EPHREM-PC;Initial Catalog=Burger2Home;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework;"
         SelectCommand="SELECT categorie_id, categorie_name FROM Categorie ORDER BY categorie_id" ProviderName="System.Data.SqlClient"
         UpdateCommand="UPDATE Categorie SET categorie_name=@categorie_name WHERE categorie_id=@categorie_id"
         DeleteCommand="DELETE FROM Categorie WHERE categorie_id=@categorie_id"></asp:SqlDataSource>

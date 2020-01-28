@@ -16,7 +16,7 @@ namespace Burger2Home_ISL_Project
             //Label1.Text = DateTime.Now.ToString(" d MMMM yyyy");// Affiche par exemple:15 février 2019
             //Header.Visible = false;
             //HtmlGenericControl customers   = (HtmlGenericControl)Master?.FindControl("customers");
-            HtmlGenericControl allCustomers = (HtmlGenericControl)Master?.FindControl("allCustomers");
+            HtmlGenericControl allCustomers= (HtmlGenericControl)Master?.FindControl("allCustomers");
             HtmlGenericControl categories  = (HtmlGenericControl)Master?.FindControl("categories");
             HtmlGenericControl ingredients = (HtmlGenericControl)Master?.FindControl("ingredients");
             HtmlGenericControl burgers     = (HtmlGenericControl)Master?.FindControl("burgers");
@@ -24,7 +24,7 @@ namespace Burger2Home_ISL_Project
             HtmlGenericControl users       = (HtmlGenericControl)Master?.FindControl("Users");
             HtmlGenericControl newUser     = (HtmlGenericControl)Master?.FindControl("newUser");
             Button user = (Button)Master?.FindControl("BtnUser");
-            Button login = (Button)Master?.FindControl("BtnConnexion");
+            Button login= (Button)Master?.FindControl("BtnConnexion");
 
 
             //customers.Visible = false;
